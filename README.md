@@ -1,2 +1,2 @@
 # learning-example
-This is for learning
+This is for learning my first repo
